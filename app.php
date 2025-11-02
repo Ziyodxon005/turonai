@@ -1,7 +1,7 @@
 <?php
 // --------------------- PHP qismi ---------------------
 // Hugging Face API tokenini environment variable orqali oling
-$api_token = getenv("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");
+$api_token = getenv("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");
 
 // Bazaviy model nomi
 $model = "mistralai/Mistral-7B-Instruct-v0.3";
@@ -70,5 +70,6 @@ if($user_message) {
     </div>
 </body>
 </html>
+
 
 
