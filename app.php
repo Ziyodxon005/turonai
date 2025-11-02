@@ -11,7 +11,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
         exit;
     }
 
-    $api_token = "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";
+    $api_token = "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";
     $model = "Ziyodxon/TuronAi";
     $url = "https://api-inference.huggingface.co/models/$model";
 
@@ -126,3 +126,4 @@ async function sendMessage() {
 </script>
 </body>
 </html>
+
